@@ -1,4 +1,6 @@
-### Hi there 👋
+### Salut 👋
+![image](https://i.gifer.com/ECQS.gif)
+
 
 <!--
 **DavidAntonescu/DavidAntonescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
